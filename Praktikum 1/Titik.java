@@ -1,3 +1,10 @@
+/**
+ * File      		: Titik.java		21/02/24
+ * Nama penulis   	: M. Dimas Saputra
+ * NIM               	: 24060122140159
+ * Deskripsi 		: Kelas yang berisi body  MTitik.java
+ * 
+ */
 class Titik
 {
 	double absis;
